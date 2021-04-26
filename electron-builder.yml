@@ -1,0 +1,5 @@
+appId: com.lukexf.electron-react-ts-v2
+publish:
+    provider: github
+    token: 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
+
